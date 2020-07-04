@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae1d2826-88d8-40ae-aa10-94821e16385d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1Ycde3352wR155Kpsi0cgHLUq6Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCodeForAaron" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.ObjectHeaderTest.test">
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.threadpool.ThreadTest" />
+      <module name="JavaTest" />
+      <option name="VM_PARAMETERS" value="-Xms500M -Xmx900M -XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferedInputStream_BufferedOutputStream.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.fileio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.fileio" />
+      <option name="MAIN_CLASS_NAME" value="org.example.fileio.BufferedInputStream_BufferedOutputStream" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectHeaderTest.test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.synchronization" />
+      <option name="MAIN_CLASS_NAME" value="org.example.synchronization.ObjectHeaderTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectHeaderTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.synchronization" />
+      <option name="MAIN_CLASS_NAME" value="org.example.synchronization.ObjectHeaderTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectHeaderTest.test3" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.synchronization" />
+      <option name="MAIN_CLASS_NAME" value="org.example.synchronization.ObjectHeaderTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectHeaderTest.test4" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.synchronization" />
+      <option name="MAIN_CLASS_NAME" value="org.example.synchronization.ObjectHeaderTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopCount.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.bigdata" />
+      <option name="MAIN_CLASS_NAME" value="org.example.bigdata.TopCount" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Xms500M -Xmx900M -XX:+PrintGCDetails" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="JUnit.ObjectHeaderTest.test" />
+      <item itemvalue="JUnit.ObjectHeaderTest.test3" />
+      <item itemvalue="JUnit.ObjectHeaderTest.test4" />
+      <item itemvalue="JUnit.TopCount.test" />
+      <item itemvalue="JUnit.BufferedInputStream_BufferedOutputStream.test" />
+      <item itemvalue="JUnit.ObjectHeaderTest.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ObjectHeaderTest.test2" />
+        <item itemvalue="JUnit.ObjectHeaderTest.test" />
+        <item itemvalue="JUnit.BufferedInputStream_BufferedOutputStream.test" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="JUnit.TopCount.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1d2826-88d8-40ae-aa10-94821e16385d" name="Default Changelist" comment="" />
+      <created>1583245907900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583245907900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="62" key="#ObjectHeaderTest.test3" timestamp="1592450815320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="344" y="62" key="#ObjectHeaderTest.test3/0.0.1536.824@0.0.1536.824" timestamp="1592450815320" />
+    <state x="344" y="62" key="#ObjectHeaderTest.test4" timestamp="1592450820502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="344" y="62" key="#ObjectHeaderTest.test4/0.0.1536.824@0.0.1536.824" timestamp="1592450820502" />
+    <state x="344" y="62" key="#ObjectHeaderTest.test_(1)" timestamp="1592450925879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="344" y="62" key="#ObjectHeaderTest.test_(1)/0.0.1536.824@0.0.1536.824" timestamp="1592450925879" />
+    <state x="209" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592450933058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592450933058" />
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1591262679033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591262679033" />
+    <state x="510" y="187" width="473" height="486" key="#com.intellij.tools.ToolEditorDialog" timestamp="1585642452731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="187" width="473" height="486" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1585642452731" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1592396155863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592396155863" />
+    <state width="1493" height="349" key="GridCell.Tab.0.bottom" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state width="1493" height="349" key="GridCell.Tab.0.center" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state width="1493" height="349" key="GridCell.Tab.0.left" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state width="1493" height="349" key="GridCell.Tab.0.right" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state width="1493" height="349" key="GridCell.Tab.1.bottom" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state width="1493" height="349" key="GridCell.Tab.1.center" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state width="1493" height="349" key="GridCell.Tab.1.left" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state width="1493" height="349" key="GridCell.Tab.1.right" timestamp="1593536193565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="349" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592895489544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592895489544" />
+    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1591259277646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1591259277646" />
+    <state x="526" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589185461877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1589185461877" />
+    <state x="447" y="145" width="740" height="534" key="find.popup" timestamp="1591201071968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="740" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591201071968" />
+    <state x="178" y="107" key="new project wizard" timestamp="1591881680126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591881680126" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592061700204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592061700204" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaTest$BiasedLockingTest.ic" NAME="BiasedLockingTest Coverage Results" MODIFIED="1589201064206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.synchronizedTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaTest$arr.ic" NAME="arr Coverage Results" MODIFIED="1588090719808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
