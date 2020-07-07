@@ -1,14 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1d2826-88d8-40ae-aa10-94821e16385d" name="Default Changelist" comment="" />
+    <list default="true" id="ae1d2826-88d8-40ae-aa10-94821e16385d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basic/booleanData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/InnerClassTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/InnerClassTest$1innerClass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/InnerClassTest$innerClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/InnerClassTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/arr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/basic/booleanData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/bigdata/TopCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/collection/ArrayListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/java8/stream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/jvm/StringPoolTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/jvm/String常量池.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/BiasedLockingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/MyBufferThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/ObjectHeaderTest$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/ObjectHeaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/ReentrantLockTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/ReentrantLockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/StringBufferTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/InnerClassTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/InnerClassTest$1innerClass3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/InnerClassTest$innerClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/InnerClassTest$innerClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/basic/InnerClassTest$innerClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/InnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/StringPoolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/jvm/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/String常量池.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ThreadPoolTest/ExecutorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/threadpool/ExecutorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ThreadPoolTest/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/threadpool/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/arr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/bigDataQuestions/TopCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/bigDataQuestions/TopK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/bigdata/TopK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/classLoader/ClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/classLoader/ClassLoaderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/classLoader/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/classLoader/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/classLoader/Student$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/classLoader/Student$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/classLoader/Student$Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/classLoader/Student$Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/classLoader/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/classLoader/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/compareInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/basic/compareInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest$Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest$Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/deadLock/DeadLockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$AK47.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$AK47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Bread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Bread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Broom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Broom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$MagicFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$MagicFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$MagicStick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$MagicStick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$ModernFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$ModernFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Mushroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Mushroom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Weapon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode$Weapon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/designMode/FactoryMode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/list.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/collection/list.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/mytest/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/proxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/proxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/proxy/Lison.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/proxy/Lison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/proxy/dynamicProxy/BbFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/proxy/dynamicProxy/BbFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/proxy/dynamicProxy/WomanToolsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/proxy/dynamicProxy/WomanToolsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/proxy/staticProxy/AaFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/proxy/staticProxy/AaFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/proxy/staticProxy/ManToolsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/proxy/staticProxy/ManToolsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/regularExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/basic/regularExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/staticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/AtomicIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/synchronization/AtomicIntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/BiasedLockingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/MyBufferThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/ObjectHeaderTest$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/ObjectHeaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/ReentrantLockTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/ReentrantLockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/synchronizedTest/StringBufferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/test/求两个字符串的和.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaTest" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,31 +123,30 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1Ycde3352wR155Kpsi0cgHLUq6Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCodeForAaron" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.ObjectHeaderTest.test">
+  <component name="RunManager" selected="JUnit.booleanData.test">
     <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.threadpool.ThreadTest" />
       <module name="JavaTest" />
@@ -162,6 +266,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="booleanData.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.basic" />
+      <option name="MAIN_CLASS_NAME" value="org.example.basic.booleanData" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ThreadTest" />
       <item itemvalue="JUnit.ObjectHeaderTest.test" />
@@ -170,28 +290,17 @@
       <item itemvalue="JUnit.TopCount.test" />
       <item itemvalue="JUnit.BufferedInputStream_BufferedOutputStream.test" />
       <item itemvalue="JUnit.ObjectHeaderTest.test2" />
+      <item itemvalue="JUnit.booleanData.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.booleanData.test" />
         <item itemvalue="JUnit.ObjectHeaderTest.test2" />
         <item itemvalue="JUnit.ObjectHeaderTest.test" />
         <item itemvalue="JUnit.BufferedInputStream_BufferedOutputStream.test" />
         <item itemvalue="Application.ThreadTest" />
-        <item itemvalue="JUnit.TopCount.test" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -205,6 +314,17 @@
       <updated>1583245907900</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="62" key="#ObjectHeaderTest.test3" timestamp="1592450815320">
@@ -235,21 +355,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592396155863" />
-    <state width="1493" height="349" key="GridCell.Tab.0.bottom" timestamp="1593536193565">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1594115181462">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594115181462" />
     <state width="1493" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
-    <state width="1493" height="349" key="GridCell.Tab.0.center" timestamp="1593536193565">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1594115181461">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594115181461" />
     <state width="1493" height="349" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
-    <state width="1493" height="349" key="GridCell.Tab.0.left" timestamp="1593536193565">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1594115181460">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594115181460" />
     <state width="1493" height="349" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
-    <state width="1493" height="349" key="GridCell.Tab.0.right" timestamp="1593536193565">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1594115181462">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594115181462" />
     <state width="1493" height="349" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593536193565" />
     <state width="1493" height="349" key="GridCell.Tab.1.bottom" timestamp="1593536193565">
       <screen x="0" y="0" width="1536" height="824" />
@@ -275,6 +399,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1591259277646" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1594115313983">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1594115313983" />
     <state x="526" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589185461877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -293,11 +421,11 @@
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592061700204" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JavaTest$BiasedLockingTest.ic" NAME="BiasedLockingTest Coverage Results" MODIFIED="1589201064206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>org.example.synchronizedTest.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/JavaTest$arr.ic" NAME="arr Coverage Results" MODIFIED="1588090719808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaTest$BiasedLockingTest.ic" NAME="BiasedLockingTest Coverage Results" MODIFIED="1589201064206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.synchronizedTest.*</FILTER>
     </SUITE>
   </component>
   <component name="ideajad">
